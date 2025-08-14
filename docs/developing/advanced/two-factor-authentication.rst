@@ -49,7 +49,9 @@ If ``ENABLE_TWO_FACTOR_AUTHENTICATION`` or ``FORCE_TWO_FACTOR_AUTHENTICATION`` h
 
     User Profile showing two-factor authentication status.
 
-From User Profile Edit page, Users can send an email to their registered email address containing instructions and a link to set up two-factor authentication.
+To set up two-factor authentication the user should click the Edit button on their User Profile page.
+
+From the User Profile Edit page, Users can click the link 'Click here to update Two-Factor Authentication settings via email' to send an email to their registered email address containing instructions and a link to set up two-factor authentication.
 
 .. figure:: ../../images/two-factor-authentication-send-email-from-profile.png
     :width: 100%
